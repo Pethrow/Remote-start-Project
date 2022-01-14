@@ -1,4 +1,4 @@
-import RPI.GPIO as GP
+import RPi.GPIO as GP
 import time
 
 #Set mode to BCM to keep numbers printed on the board
